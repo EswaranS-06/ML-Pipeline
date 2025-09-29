@@ -231,15 +231,6 @@ Coding standards & Tips
 - Prefer returning DataFrames from modules (instead of only writing files) to facilitate composition and unit testing.
 - Add or update `requirements.txt` when adding new dependencies.
 
-## License
-
-Specify your license here. Example (choose one):
-
-- MIT License — open-source and permissive. Or
-- All rights reserved — if you prefer not to open-source this project.
-
-If you want me to add a `LICENSE` file with a specific license, tell me which one and I will add it.
-
 ## Contact
 
 - Author: (add your name or GitHub handle)
