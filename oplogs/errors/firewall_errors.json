@@ -1,0 +1,107 @@
+[
+  {
+    "line": 1,
+    "error": "Invalid log entry format",
+    "content": "INFO: Firewall started successfully"
+  },
+  {
+    "line": 2,
+    "error": "Invalid log entry format",
+    "content": "DEBUG: Loading firewall rules from config"
+  },
+  {
+    "line": 3,
+    "error": "Invalid log entry format",
+    "content": "INFO: 25 rules loaded"
+  },
+  {
+    "line": 4,
+    "error": "Invalid log entry format",
+    "content": "WARNING: Rule #12 conflicts with rule #8"
+  },
+  {
+    "line": 5,
+    "error": "Invalid log entry format",
+    "content": "ERROR: Failed to apply rule #15 - syntax error"
+  },
+  {
+    "line": 6,
+    "error": "Invalid log entry format",
+    "content": "INFO: Firewall operational on port 8080"
+  },
+  {
+    "line": 7,
+    "error": "Invalid log entry format",
+    "content": "DEBUG: Packet filtering enabled"
+  },
+  {
+    "line": 8,
+    "error": "Invalid log entry format",
+    "content": "INFO: Connection from 192.168.1.100 allowed"
+  },
+  {
+    "line": 9,
+    "error": "Invalid log entry format",
+    "content": "WARNING: High traffic volume detected"
+  },
+  {
+    "line": 10,
+    "error": "Invalid log entry format",
+    "content": "INFO: Connection from 10.0.0.5 blocked"
+  },
+  {
+    "line": 11,
+    "error": "Invalid log entry format",
+    "content": "ERROR: Memory allocation failed for packet inspection"
+  },
+  {
+    "line": 12,
+    "error": "Invalid log entry format",
+    "content": "INFO: Firewall statistics updated"
+  },
+  {
+    "line": 13,
+    "error": "Invalid log entry format",
+    "content": "DEBUG: Cache cleared successfully"
+  },
+  {
+    "line": 14,
+    "error": "Invalid log entry format",
+    "content": "INFO: System update completed"
+  },
+  {
+    "line": 15,
+    "error": "Invalid log entry format",
+    "content": "WARNING: Unusual pattern detected in incoming traffic"
+  },
+  {
+    "line": 16,
+    "error": "Invalid log entry format",
+    "content": "ERROR: Failed to update threat database"
+  },
+  {
+    "line": 17,
+    "error": "Invalid log entry format",
+    "content": "INFO: Daily maintenance completed"
+  },
+  {
+    "line": 18,
+    "error": "Invalid log entry format",
+    "content": "DEBUG: Performance metrics logged"
+  },
+  {
+    "line": 19,
+    "error": "Invalid log entry format",
+    "content": "INFO: Backup created successfully"
+  },
+  {
+    "line": 20,
+    "error": "Invalid log entry format",
+    "content": "WARNING: Disk space running low"
+  },
+  {
+    "line": 21,
+    "error": "Invalid log entry format",
+    "content": "ERROR: Cannot connect to update server"
+  }
+]

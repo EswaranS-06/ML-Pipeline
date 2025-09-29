@@ -1,0 +1,3162 @@
+[
+  {
+    "line": 68,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:15:35:11|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038440000##7015##548365##8661##13026##27177962"
+  },
+  {
+    "line": 69,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:15:35:12|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038440000##7017##548365##8661##13121##27179330"
+  },
+  {
+    "line": 70,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:15:35:20|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=126989"
+  },
+  {
+    "line": 71,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:15:35:22|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 72,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:15:35:23|Step_ScreenUtil|30002312|isScreenOn true"
+  },
+  {
+    "line": 73,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:15:35:23|Step_StandReportReceiver|30002312|screen status unknown,think screen on"
+  },
+  {
+    "line": 74,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:15:35:23|Step_StandReportReceiver|30002312|REPORT : 7017 5010 150304 240"
+  },
+  {
+    "line": 75,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:15:35:96|Step_StandReportReceiver|30002312|onReceive action: android.intent.action.SCREEN_ON"
+  },
+  {
+    "line": 76,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:15:35:97|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.SCREEN_ON"
+  },
+  {
+    "line": 77,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:15:35:97|Step_StandStepCounter|30002312|flush sensor data"
+  },
+  {
+    "line": 78,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:15:35:98|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038440000##7017##548365##8661##13121##27179330"
+  },
+  {
+    "line": 79,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:15:35:98|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038440000##7017##548365##8661##13216##27179417"
+  },
+  {
+    "line": 80,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:15:35:98|Step_LSC|30002312|onStandStepChanged 3589"
+  },
+  {
+    "line": 312,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:16:0:119|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 313,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:16:0:150|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038440000##7053##548365##8661##16256##27202475"
+  },
+  {
+    "line": 314,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:16:0:150|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038500000##7054##548458##8661##16256##27204469"
+  },
+  {
+    "line": 315,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:16:0:159|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=127782"
+  },
+  {
+    "line": 316,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:16:0:161|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 317,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:16:0:162|Step_StandReportReceiver|30002312|REPORT : 7054 5036 151096 240"
+  },
+  {
+    "line": 318,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:16:0:849|Step_LSC|30002312|onStandStepChanged 3626"
+  },
+  {
+    "line": 319,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:16:0:859|Step_LSC|30002312|onExtend:1514038561000 0 0 0"
+  },
+  {
+    "line": 320,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:16:1:150|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038500000##7054##548458##8661##16256##27204469"
+  },
+  {
+    "line": 321,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:16:1:150|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038500000##7054##548551##8661##16256##27205469"
+  },
+  {
+    "line": 322,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:16:1:165|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=127782"
+  },
+  {
+    "line": 323,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:16:1:172|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 324,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:17:0:123|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 563,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:0:134|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 564,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:0:158|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038560000##7109##548585##8661##16256##27322469"
+  },
+  {
+    "line": 565,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:0:159|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038620000##7111##548640##8661##16256##27324478"
+  },
+  {
+    "line": 566,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:0:168|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=129002"
+  },
+  {
+    "line": 567,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:0:171|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 568,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:0:172|Step_StandReportReceiver|30002312|REPORT : 7111 5077 152317 240"
+  },
+  {
+    "line": 569,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:1:349|Step_LSC|30002312|onStandStepChanged 3684"
+  },
+  {
+    "line": 570,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:1:361|Step_LSC|30002312|onExtend:1514038682000 1 0 4"
+  },
+  {
+    "line": 571,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:1:649|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038620000##7111##548640##8661##16256##27324478"
+  },
+  {
+    "line": 572,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:1:650|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038620000##7112##548695##8661##16256##27325968"
+  },
+  {
+    "line": 573,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:1:659|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=129024"
+  },
+  {
+    "line": 574,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:1:663|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 575,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:1:664|Step_StandReportReceiver|30002312|REPORT : 7112 5077 152339 240"
+  },
+  {
+    "line": 576,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:2:349|Step_LSC|30002312|onStandStepChanged 3685"
+  },
+  {
+    "line": 577,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:2:363|Step_LSC|30002312|onExtend:1514038683000 1 0 4"
+  },
+  {
+    "line": 578,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:2:649|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038620000##7112##548695##8661##16256##27325968"
+  },
+  {
+    "line": 579,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:2:650|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038620000##7113##548750##8661##16256##27326969"
+  },
+  {
+    "line": 580,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:2:659|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=129045"
+  },
+  {
+    "line": 581,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:2:661|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 582,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:2:662|Step_StandReportReceiver|30002312|REPORT : 7113 5078 152360 240"
+  },
+  {
+    "line": 583,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:5:351|Step_LSC|30002312|onStandStepChanged 3686"
+  },
+  {
+    "line": 584,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:5:358|Step_LSC|30002312|onExtend:1514038686000 1 0 4"
+  },
+  {
+    "line": 585,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:5:653|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038620000##7113##548750##8661##16256##27326969"
+  },
+  {
+    "line": 586,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:5:653|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038620000##7114##548805##8661##16256##27329972"
+  },
+  {
+    "line": 587,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:5:673|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=129067"
+  },
+  {
+    "line": 588,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:5:684|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 589,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:5:684|Step_StandReportReceiver|30002312|REPORT : 7114 5079 152381 240"
+  },
+  {
+    "line": 590,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:5:849|Step_LSC|30002312|onStandStepChanged 3686"
+  },
+  {
+    "line": 591,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:5:854|Step_LSC|30002312|onExtend:1514038686000 0 0 0"
+  },
+  {
+    "line": 592,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:6:150|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038620000##7114##548805##8661##16256##27329972"
+  },
+  {
+    "line": 593,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:6:151|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038620000##7114##548860##8661##16256##27330470"
+  },
+  {
+    "line": 594,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:6:164|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=129067"
+  },
+  {
+    "line": 595,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:18:6:168|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 596,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:0:138|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 597,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:7:854|Step_LSC|30002312|onStandStepChanged 3689"
+  },
+  {
+    "line": 598,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:7:865|Step_LSC|30002312|onExtend:1514038748000 3 0 4"
+  },
+  {
+    "line": 599,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:8:155|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038620000##7114##548860##8661##16256##27330470"
+  },
+  {
+    "line": 600,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:8:156|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038680000##7117##548865##8661##16256##27392475"
+  },
+  {
+    "line": 601,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:8:163|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=129131"
+  },
+  {
+    "line": 602,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:8:165|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 603,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:8:167|Step_StandReportReceiver|30002312|REPORT : 7117 5081 152446 240"
+  },
+  {
+    "line": 604,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:8:357|Step_LSC|30002312|onStandStepChanged 3694"
+  },
+  {
+    "line": 605,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:8:365|Step_LSC|30002312|onExtend:1514038749000 5 0 4"
+  },
+  {
+    "line": 606,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:8:658|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038680000##7117##548865##8661##16256##27392475"
+  },
+  {
+    "line": 607,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:8:660|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038680000##7122##548870##8661##16256##27392978"
+  },
+  {
+    "line": 608,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:8:675|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=129238"
+  },
+  {
+    "line": 609,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:8:686|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 610,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:8:686|Step_StandReportReceiver|30002312|REPORT : 7122 5085 152553 240"
+  },
+  {
+    "line": 611,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:8:849|Step_LSC|30002312|onStandStepChanged 3696"
+  },
+  {
+    "line": 612,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:8:862|Step_LSC|30002312|onExtend:1514038749000 2 0 4"
+  },
+  {
+    "line": 613,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:9:150|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038680000##7122##548870##8661##16256##27392978"
+  },
+  {
+    "line": 614,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:9:151|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038680000##7124##548875##8661##16256##27393470"
+  },
+  {
+    "line": 615,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:9:158|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=129281"
+  },
+  {
+    "line": 616,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:9:163|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 617,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:9:169|Step_StandReportReceiver|30002312|REPORT : 7124 5086 152596 240"
+  },
+  {
+    "line": 618,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:9:348|Step_LSC|30002312|onStandStepChanged 3698"
+  },
+  {
+    "line": 619,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:9:359|Step_LSC|30002312|onExtend:1514038750000 2 0 4"
+  },
+  {
+    "line": 620,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:9:652|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038680000##7124##548875##8661##16256##27393470"
+  },
+  {
+    "line": 621,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:9:652|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038680000##7126##548880##8661##16256##27393971"
+  },
+  {
+    "line": 622,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:9:662|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=129324"
+  },
+  {
+    "line": 623,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:9:668|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 624,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:9:671|Step_StandReportReceiver|30002312|REPORT : 7126 5087 152638 240"
+  },
+  {
+    "line": 625,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:9:849|Step_LSC|30002312|onStandStepChanged 3700"
+  },
+  {
+    "line": 626,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:9:859|Step_LSC|30002312|onExtend:1514038750000 2 0 4"
+  },
+  {
+    "line": 696,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:58:97|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038680000##7160##548925##8661##16256##27442097"
+  },
+  {
+    "line": 697,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:19:58:97|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038680000##7160##548930##8661##16256##27442416"
+  },
+  {
+    "line": 813,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:0:130|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 814,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:0:165|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038680000##7167##548945##8661##16256##27443986"
+  },
+  {
+    "line": 815,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:0:165|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038740000##7170##548996##8661##16256##27444484"
+  },
+  {
+    "line": 816,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:0:174|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130266"
+  },
+  {
+    "line": 817,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:0:177|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 818,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:0:179|Step_StandReportReceiver|30002312|REPORT : 7170 5119 153581 240"
+  },
+  {
+    "line": 819,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:0:363|Step_LSC|30002312|onStandStepChanged 3745"
+  },
+  {
+    "line": 820,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:0:374|Step_LSC|30002312|onExtend:1514038801000 3 0 4"
+  },
+  {
+    "line": 821,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:0:666|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038740000##7170##548996##8661##16256##27444484"
+  },
+  {
+    "line": 822,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:0:666|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038740000##7173##549047##8661##16256##27444985"
+  },
+  {
+    "line": 823,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:0:679|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130330"
+  },
+  {
+    "line": 824,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:0:688|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 825,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:0:693|Step_StandReportReceiver|30002312|REPORT : 7173 5121 153645 240"
+  },
+  {
+    "line": 826,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:0:863|Step_LSC|30002312|onStandStepChanged 3746"
+  },
+  {
+    "line": 827,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:0:872|Step_LSC|30002312|onExtend:1514038801000 1 0 4"
+  },
+  {
+    "line": 828,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:1:166|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038740000##7173##549047##8661##16256##27444985"
+  },
+  {
+    "line": 829,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:1:166|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038740000##7174##549098##8661##16256##27445485"
+  },
+  {
+    "line": 830,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:1:181|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130351"
+  },
+  {
+    "line": 831,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:1:186|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 832,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:1:186|Step_StandReportReceiver|30002312|REPORT : 7174 5122 153667 240"
+  },
+  {
+    "line": 833,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:1:363|Step_LSC|30002312|onStandStepChanged 3748"
+  },
+  {
+    "line": 834,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:1:378|Step_LSC|30002312|onExtend:1514038802000 2 0 4"
+  },
+  {
+    "line": 835,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:1:664|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038740000##7174##549098##8661##16256##27445485"
+  },
+  {
+    "line": 836,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:1:665|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038740000##7176##549149##8661##16256##27445983"
+  },
+  {
+    "line": 837,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:1:679|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130394"
+  },
+  {
+    "line": 838,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:1:687|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 839,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:1:692|Step_StandReportReceiver|30002312|REPORT : 7176 5123 153709 240"
+  },
+  {
+    "line": 840,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:1:863|Step_LSC|30002312|onStandStepChanged 3751"
+  },
+  {
+    "line": 841,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:1:873|Step_LSC|30002312|onExtend:1514038802000 3 0 4"
+  },
+  {
+    "line": 842,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:2:164|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038740000##7176##549149##8661##16256##27445983"
+  },
+  {
+    "line": 843,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:2:165|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038740000##7179##549200##8661##16256##27446483"
+  },
+  {
+    "line": 844,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:2:174|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130458"
+  },
+  {
+    "line": 845,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:2:178|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 846,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:2:179|Step_StandReportReceiver|30002312|REPORT : 7179 5125 153774 240"
+  },
+  {
+    "line": 847,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:2:365|Step_LSC|30002312|onStandStepChanged 3753"
+  },
+  {
+    "line": 848,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:2:375|Step_LSC|30002312|onExtend:1514038803000 2 0 4"
+  },
+  {
+    "line": 849,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:2:670|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038740000##7179##549200##8661##16256##27446483"
+  },
+  {
+    "line": 850,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:2:671|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038740000##7181##549251##8661##16256##27446989"
+  },
+  {
+    "line": 851,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:2:678|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130501"
+  },
+  {
+    "line": 852,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:2:693|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 853,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:2:695|Step_StandReportReceiver|30002312|REPORT : 7181 5127 153817 240"
+  },
+  {
+    "line": 854,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:2:863|Step_LSC|30002312|onStandStepChanged 3755"
+  },
+  {
+    "line": 855,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:2:874|Step_LSC|30002312|onExtend:1514038803000 2 0 4"
+  },
+  {
+    "line": 856,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:3:164|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038740000##7181##549251##8661##16256##27446989"
+  },
+  {
+    "line": 857,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:3:165|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038740000##7183##549302##8661##16256##27447483"
+  },
+  {
+    "line": 858,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:3:175|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130544"
+  },
+  {
+    "line": 859,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:3:179|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 860,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:3:180|Step_StandReportReceiver|30002312|REPORT : 7183 5128 153859 240"
+  },
+  {
+    "line": 861,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:3:862|Step_LSC|30002312|onStandStepChanged 3757"
+  },
+  {
+    "line": 862,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:3:873|Step_LSC|30002312|onExtend:1514038804000 2 0 4"
+  },
+  {
+    "line": 863,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:4:166|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038740000##7183##549302##8661##16256##27447483"
+  },
+  {
+    "line": 864,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:4:167|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038740000##7185##549353##8661##16256##27448486"
+  },
+  {
+    "line": 865,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:4:187|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130587"
+  },
+  {
+    "line": 866,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:4:193|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 867,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:4:193|Step_StandReportReceiver|30002312|REPORT : 7185 5130 153902 240"
+  },
+  {
+    "line": 868,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:4:362|Step_LSC|30002312|onStandStepChanged 3758"
+  },
+  {
+    "line": 869,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:4:373|Step_LSC|30002312|onExtend:1514038805000 1 0 4"
+  },
+  {
+    "line": 870,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:4:664|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038740000##7185##549353##8661##16256##27448486"
+  },
+  {
+    "line": 871,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:4:665|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038740000##7186##549404##8661##16256##27448983"
+  },
+  {
+    "line": 872,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:4:673|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130608"
+  },
+  {
+    "line": 873,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:4:676|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 874,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:4:680|Step_StandReportReceiver|30002312|REPORT : 7186 5130 153924 240"
+  },
+  {
+    "line": 875,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:5:362|Step_LSC|30002312|onStandStepChanged 3759"
+  },
+  {
+    "line": 876,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:5:377|Step_LSC|30002312|onExtend:1514038806000 1 0 4"
+  },
+  {
+    "line": 877,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:5:662|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038740000##7186##549404##8661##16256##27448983"
+  },
+  {
+    "line": 878,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:5:664|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038740000##7187##549455##8661##16256##27449982"
+  },
+  {
+    "line": 879,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:5:672|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130630"
+  },
+  {
+    "line": 880,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:5:675|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 881,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:5:675|Step_StandReportReceiver|30002312|REPORT : 7187 5131 153945 240"
+  },
+  {
+    "line": 882,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:7:364|Step_LSC|30002312|onStandStepChanged 3760"
+  },
+  {
+    "line": 883,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:7:378|Step_LSC|30002312|onExtend:1514038808000 1 0 4"
+  },
+  {
+    "line": 884,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:7:665|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038740000##7187##549455##8661##16256##27449982"
+  },
+  {
+    "line": 885,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:7:666|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038740000##7188##549506##8661##16256##27451985"
+  },
+  {
+    "line": 886,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:7:681|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130651"
+  },
+  {
+    "line": 887,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:7:686|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 888,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:7:690|Step_StandReportReceiver|30002312|REPORT : 7188 5132 153966 240"
+  },
+  {
+    "line": 889,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:7:864|Step_LSC|30002312|onStandStepChanged 3761"
+  },
+  {
+    "line": 890,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:7:875|Step_LSC|30002312|onExtend:1514038808000 1 0 4"
+  },
+  {
+    "line": 891,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:8:172|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038740000##7188##549506##8661##16256##27451985"
+  },
+  {
+    "line": 892,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:8:173|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514038740000##7189##549557##8661##16256##27452491"
+  },
+  {
+    "line": 893,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:8:180|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130673"
+  },
+  {
+    "line": 894,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:8:182|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 895,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:20:8:185|Step_StandReportReceiver|30002312|REPORT : 7189 5132 153988 240"
+  },
+  {
+    "line": 951,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:25:0:162|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 952,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:25:13:8|Step_StandReportReceiver|30002312|onReceive action: android.intent.action.SCREEN_OFF"
+  },
+  {
+    "line": 954,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:29:8:492|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 963,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:30:24:25|Step_StandReportReceiver|30002312|onReceive action: android.intent.action.SCREEN_ON"
+  },
+  {
+    "line": 964,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:30:24:27|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.SCREEN_ON"
+  },
+  {
+    "line": 965,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:30:24:27|Step_StandStepCounter|30002312|flush sensor data"
+  },
+  {
+    "line": 966,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:30:24:28|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514038980000##7189##549659##8661##16256##27743510"
+  },
+  {
+    "line": 967,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:30:24:28|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514039340000##7189##549659##8661##16256##28068346"
+  },
+  {
+    "line": 968,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:30:24:28|Step_LSC|30002312|onStandStepChanged 3761"
+  },
+  {
+    "line": 969,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:30:24:40|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130673"
+  },
+  {
+    "line": 970,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:30:24:45|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 971,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:30:24:46|Step_StandReportReceiver|30002312|REPORT : 7189 5132 153988 240"
+  },
+  {
+    "line": 978,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:31:0:136|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1005,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:32:0:95|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1016,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:33:0:103|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1017,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:33:9:926|Step_LSC|30002312|onStandStepChanged 3761"
+  },
+  {
+    "line": 1018,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:33:9:938|Step_LSC|30002312|onExtend:1514039590000 0 0 5"
+  },
+  {
+    "line": 1041,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:34:0:126|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1042,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:35:0:49|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1043,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:36:0:138|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1044,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:37:0:122|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1074,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:40:0:151|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1075,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:41:0:151|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1076,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:42:0:137|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1077,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:43:0:96|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1078,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:44:0:47|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1079,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:45:0:94|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1092,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:46:0:142|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1093,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:47:0:157|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1094,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:48:0:132|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1095,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:49:0:139|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1096,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:50:0:142|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1097,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:51:0:128|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1098,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:51:2:965|Step_LSC|30002312|onStandStepChanged 3761"
+  },
+  {
+    "line": 1099,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:51:2:978|Step_LSC|30002312|onExtend:1514040662000 0 0 5"
+  },
+  {
+    "line": 1100,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:51:3:266|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514040240000##7189##549659##8661##16256##28999575"
+  },
+  {
+    "line": 1101,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:51:3:266|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514040600000##7189##549659##8661##16256##29307585"
+  },
+  {
+    "line": 1102,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:51:3:275|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130673"
+  },
+  {
+    "line": 1103,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:51:3:278|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 1134,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:52:0:146|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1135,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:52:8:790|Step_StandReportReceiver|30002312|onReceive action: android.intent.action.SCREEN_OFF"
+  },
+  {
+    "line": 1166,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:1:177|Step_LSC|30002312|onStandStepChanged 3761"
+  },
+  {
+    "line": 1167,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:1:185|Step_LSC|30002312|onExtend:1514040776000 0 0 5"
+  },
+  {
+    "line": 1168,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:1:185|Step_LSC|30002312|onExtend:1514040836000 0 0 0"
+  },
+  {
+    "line": 1169,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:1:211|Step_StandReportReceiver|30002312|onReceive action: android.intent.action.SCREEN_ON"
+  },
+  {
+    "line": 1170,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:1:213|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.SCREEN_ON"
+  },
+  {
+    "line": 1171,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:1:213|Step_StandStepCounter|30002312|flush sensor data"
+  },
+  {
+    "line": 1172,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:1:214|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514040660000##7189##549659##8661##16256##29416607"
+  },
+  {
+    "line": 1173,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:1:215|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514040720000##7189##549659##8661##16256##29425533"
+  },
+  {
+    "line": 1174,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:1:218|Step_LSC|30002312|onStandStepChanged 3761"
+  },
+  {
+    "line": 1175,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:1:219|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130673"
+  },
+  {
+    "line": 1176,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:1:226|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 1177,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:1:227|Step_StandReportReceiver|30002312|REPORT : 7189 5132 153988 240"
+  },
+  {
+    "line": 1178,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:1:315|Step_LSC|30002312|onStandStepChanged 3761"
+  },
+  {
+    "line": 1179,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:1:320|Step_LSC|30002312|onExtend:1514040781000 0 0 0"
+  },
+  {
+    "line": 1180,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:1:320|Step_LSC|30002312|timeStamp back,extendReportTimeStamp=1514040836000"
+  },
+  {
+    "line": 1181,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:1:325|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1182,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:1:528|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514040720000##7189##549659##8661##16256##29425533"
+  },
+  {
+    "line": 1183,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:1:529|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514040720000##7189##549659##8661##16256##29425847"
+  },
+  {
+    "line": 1184,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:1:539|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130673"
+  },
+  {
+    "line": 1185,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:1:544|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 1186,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:6:996|Step_LSC|30002312|onStandStepChanged 3761"
+  },
+  {
+    "line": 1187,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:7:6|Step_LSC|30002312|onExtend:1514040786000 0 0 5"
+  },
+  {
+    "line": 1188,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:7:299|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514040720000##7189##549659##8661##16256##29425847"
+  },
+  {
+    "line": 1189,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:7:299|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514040720000##7189##549659##8661##16256##29431618"
+  },
+  {
+    "line": 1190,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:7:309|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130673"
+  },
+  {
+    "line": 1191,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:7:314|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 1206,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:13:15|Step_LSC|30002312|onStandStepChanged 3761"
+  },
+  {
+    "line": 1207,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:13:16|Step_LSC|30002312|onExtend:1514040793000 0 0 0"
+  },
+  {
+    "line": 1208,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:13:38|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514040720000##7189##549659##8661##16256##29437037"
+  },
+  {
+    "line": 1209,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:13:39|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514040720000##7189##549659##8661##16256##29437358"
+  },
+  {
+    "line": 1210,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:13:45|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130673"
+  },
+  {
+    "line": 1211,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:53:13:48|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 1212,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:54:0:118|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1213,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:54:55:20|Step_LSC|30002312|onStandStepChanged 3761"
+  },
+  {
+    "line": 1214,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:54:55:29|Step_LSC|30002312|onExtend:1514040895000 0 0 5"
+  },
+  {
+    "line": 1219,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:55:0:140|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1234,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:55:56:24|Step_LSC|30002312|onStandStepChanged 3761"
+  },
+  {
+    "line": 1235,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:55:56:27|Step_LSC|30002312|onExtend:1514040956000 0 0 0"
+  },
+  {
+    "line": 1236,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:55:56:53|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514040840000##7189##549659##8661##16256##29600053"
+  },
+  {
+    "line": 1237,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:55:56:53|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514040840000##7189##549659##8661##16256##29600372"
+  },
+  {
+    "line": 1238,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:55:56:62|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130673"
+  },
+  {
+    "line": 1239,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:55:56:64|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 1240,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:56:0:140|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1241,
+    "error": "Invalid log entry format",
+    "content": "20171223-22:56:6:185|Step_StandReportReceiver|30002312|onReceive action: android.intent.action.SCREEN_OFF"
+  },
+  {
+    "line": 1244,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:1:5:778|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1245,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:2:31:995|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1246,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:3:16:894|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1247,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:5:7:189|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1248,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:6:7:350|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1249,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:75|Step_LSC|30002312|onStandStepChanged 3761"
+  },
+  {
+    "line": 1250,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:86|Step_LSC|30002312|onExtend:1514040966000 0 0 5"
+  },
+  {
+    "line": 1251,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:86|Step_LSC|30002312|onExtend:1514041026000 0 0 5"
+  },
+  {
+    "line": 1252,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:86|Step_LSC|30002312|onExtend:1514041086000 0 0 5"
+  },
+  {
+    "line": 1253,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:86|Step_LSC|30002312|onExtend:1514041146000 0 0 5"
+  },
+  {
+    "line": 1254,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:86|Step_LSC|30002312|onExtend:1514041206000 0 0 5"
+  },
+  {
+    "line": 1255,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:86|Step_LSC|30002312|onExtend:1514041266000 0 0 5"
+  },
+  {
+    "line": 1256,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:86|Step_LSC|30002312|onExtend:1514041326000 0 0 5"
+  },
+  {
+    "line": 1257,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:86|Step_LSC|30002312|onExtend:1514041386000 0 0 5"
+  },
+  {
+    "line": 1258,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:86|Step_LSC|30002312|onExtend:1514041446000 0 0 5"
+  },
+  {
+    "line": 1259,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:86|Step_LSC|30002312|onExtend:1514041506000 0 0 5"
+  },
+  {
+    "line": 1260,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:86|Step_LSC|30002312|onExtend:1514041566000 0 0 5"
+  },
+  {
+    "line": 1261,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:86|Step_LSC|30002312|onExtend:1514041626000 0 0 5"
+  },
+  {
+    "line": 1262,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:124|Step_StandReportReceiver|30002312|onReceive action: android.intent.action.SCREEN_ON"
+  },
+  {
+    "line": 1263,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:125|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.SCREEN_ON"
+  },
+  {
+    "line": 1264,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:125|Step_StandStepCounter|30002312|flush sensor data"
+  },
+  {
+    "line": 1265,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:126|Step_LSC|30002312|onStandStepChanged 3761"
+  },
+  {
+    "line": 1266,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:126|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514040840000##7189##549659##8661##16256##29600372"
+  },
+  {
+    "line": 1267,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:126|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514041560000##7189##549659##8661##16256##30270445"
+  },
+  {
+    "line": 1268,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:137|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130673"
+  },
+  {
+    "line": 1269,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:142|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 1270,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:145|Step_StandReportReceiver|30002312|REPORT : 7189 5132 153988 240"
+  },
+  {
+    "line": 1271,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:226|Step_LSC|30002312|onStandStepChanged 3761"
+  },
+  {
+    "line": 1272,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:232|Step_LSC|30002312|onExtend:1514041627000 0 0 5"
+  },
+  {
+    "line": 1273,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:309|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1274,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:445|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514041560000##7189##549659##8661##16256##30270445"
+  },
+  {
+    "line": 1275,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:446|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514041560000##7189##549659##8661##16256##30270764"
+  },
+  {
+    "line": 1276,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:453|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130673"
+  },
+  {
+    "line": 1277,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:6:455|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 1278,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:7:71|Step_LSC|30002312|onStandStepChanged 3761"
+  },
+  {
+    "line": 1279,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:7:71|Step_LSC|30002312|onExtend:1514041627000 0 0 0"
+  },
+  {
+    "line": 1280,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:7:373|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514041560000##7189##549659##8661##16256##30270764"
+  },
+  {
+    "line": 1281,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:7:374|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514041560000##7189##549659##8661##16256##30271693"
+  },
+  {
+    "line": 1282,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:7:391|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130673"
+  },
+  {
+    "line": 1283,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:7:400|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 1284,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:50:264|Step_LSC|30002312|getTodaySportData mStepsRecordManager=com.huawei.health.g.c@8a2a501"
+  },
+  {
+    "line": 1285,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:50:266|Step_StandReportReceiver|30002312|REPORT : 7189 5132 153988 240"
+  },
+  {
+    "line": 1286,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:50:266|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514041560000##7189##549659##8661##16256##30271693"
+  },
+  {
+    "line": 1287,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:50:267|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514041560000##7189##549659##8661##16256##30314585"
+  },
+  {
+    "line": 1288,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:50:274|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130673"
+  },
+  {
+    "line": 1289,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:50:279|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 1290,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:50:304|Step_LSC|30002312|getTodaySportData mStepsRecordManager=com.huawei.health.g.c@8a2a501"
+  },
+  {
+    "line": 1291,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:51:222|Step_LSC|30002312|getTodaySportData mStepsRecordManager=com.huawei.health.g.c@8a2a501"
+  },
+  {
+    "line": 1292,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:51:224|Step_StandReportReceiver|30002312|REPORT : 7189 5132 153988 240"
+  },
+  {
+    "line": 1293,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:51:225|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514041560000##7189##549659##8661##16256##30314585"
+  },
+  {
+    "line": 1294,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:51:228|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514041560000##7189##549659##8661##16256##30315546"
+  },
+  {
+    "line": 1295,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:51:235|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130673"
+  },
+  {
+    "line": 1296,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:51:238|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 1297,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:7:51:314|Step_LSC|30002312|getTodaySportData mStepsRecordManager=com.huawei.health.g.c@8a2a501"
+  },
+  {
+    "line": 1298,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:8:0:112|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1299,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:8:9:229|Step_LSC|30002312|getTodaySportData mStepsRecordManager=com.huawei.health.g.c@8a2a501"
+  },
+  {
+    "line": 1300,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:8:9:233|Step_StandReportReceiver|30002312|REPORT : 7189 5132 153988 240"
+  },
+  {
+    "line": 1301,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:8:9:235|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514041560000##7189##549659##8661##16256##30315546"
+  },
+  {
+    "line": 1302,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:8:9:235|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514041620000##7189##549659##8661##16256##30333554"
+  },
+  {
+    "line": 1303,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:8:9:248|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130673"
+  },
+  {
+    "line": 1304,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:8:9:253|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 1305,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:8:9:293|Step_LSC|30002312|getTodaySportData mStepsRecordManager=com.huawei.health.g.c@8a2a501"
+  },
+  {
+    "line": 1306,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:8:19:101|Step_LSC|30002312|onStandStepChanged 3761"
+  },
+  {
+    "line": 1307,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:8:19:116|Step_LSC|30002312|onExtend:1514041699000 0 0 5"
+  },
+  {
+    "line": 1308,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:8:19:403|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514041620000##7189##549659##8661##16256##30333554"
+  },
+  {
+    "line": 1309,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:8:19:404|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514041620000##7189##549659##8661##16256##30343722"
+  },
+  {
+    "line": 1310,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:8:19:419|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=130673"
+  },
+  {
+    "line": 1311,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:8:19:432|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 1312,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:8:41:127|Step_StandReportReceiver|30002312|onReceive action: android.intent.action.SCREEN_OFF"
+  },
+  {
+    "line": 1314,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:11:38:10|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1316,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:13:47:8|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1317,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:14:2:860|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1438,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:15:0:121|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1439,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:16:0:120|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1456,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:17:41:3|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=131208"
+  },
+  {
+    "line": 1457,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:17:41:4|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 1458,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:17:41:5|Step_StandReportReceiver|30002312|REPORT : 7214 5150 154523 240"
+  },
+  {
+    "line": 1459,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:17:41:97|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1476,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:17:42:1|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=131208"
+  },
+  {
+    "line": 1477,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:17:42:4|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 1478,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:17:42:5|Step_StandReportReceiver|30002312|REPORT : 7214 5150 154523 240"
+  },
+  {
+    "line": 1479,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:17:42:91|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1480,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:17:42:93|Step_LSC|30002312|onExtend:1514042262000 0 0 0"
+  },
+  {
+    "line": 1485,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:18:0:115|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1486,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:19:0:120|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1499,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:20:0:112|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1500,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:21:0:125|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1501,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:22:0:118|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1515,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:24:0:103|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1516,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:25:0:122|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1517,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:26:0:140|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1518,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:27:0:143|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1519,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:28:0:124|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1520,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:29:0:116|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1521,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:29:4:137|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1522,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:29:4:145|Step_LSC|30002312|onExtend:1514042944000 0 0 5"
+  },
+  {
+    "line": 1523,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:29:4:438|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514042520000##7214##549659##8661##16256##31243766"
+  },
+  {
+    "line": 1524,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:29:4:438|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514042880000##7214##549659##8661##16256##31588757"
+  },
+  {
+    "line": 1525,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:29:4:456|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=131208"
+  },
+  {
+    "line": 1526,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:29:4:459|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 1527,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:29:5:137|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1528,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:29:5:148|Step_LSC|30002312|onExtend:1514042945000 0 0 0"
+  },
+  {
+    "line": 1529,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:29:5:438|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514042880000##7214##549659##8661##16256##31588757"
+  },
+  {
+    "line": 1530,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:29:5:438|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514042880000##7214##549659##8661##16256##31589757"
+  },
+  {
+    "line": 1531,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:29:5:448|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=131208"
+  },
+  {
+    "line": 1532,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:29:5:452|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 1533,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:30:0:165|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1534,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:31:0:123|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1535,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:32:0:140|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1546,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:33:0:134|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1547,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:34:0:84|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1548,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:35:0:131|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1549,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:36:0:147|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1550,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:37:0:167|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1563,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:38:0:131|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1564,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:39:0:132|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1565,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:40:0:134|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1578,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:41:0:155|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1579,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:42:0:134|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1586,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:43:0:139|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1587,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:44:0:163|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1588,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:45:0:128|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1589,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:46:0:137|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1590,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:46:7:137|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1591,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:46:7:148|Step_LSC|30002312|onExtend:1514043967000 0 0 5"
+  },
+  {
+    "line": 1592,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:46:7:444|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514043660000##7214##549659##8661##16256##32403526"
+  },
+  {
+    "line": 1593,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:46:7:444|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514043900000##7214##549659##8661##16256##32611763"
+  },
+  {
+    "line": 1594,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:46:7:464|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=131208"
+  },
+  {
+    "line": 1595,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:46:7:467|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 1602,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:47:0:156|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1603,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:48:0:156|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1604,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:49:0:142|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1605,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:50:0:130|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1612,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:51:0:123|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1613,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:52:0:154|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1620,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:53:0:133|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1621,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:53:0:141|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1622,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:53:0:147|Step_LSC|30002312|onExtend:1514044380000 0 0 0"
+  },
+  {
+    "line": 1623,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:53:0:441|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514044260000##7214##549659##8661##16256##33021763"
+  },
+  {
+    "line": 1624,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:53:0:442|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33024761"
+  },
+  {
+    "line": 1625,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:53:0:450|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=131208"
+  },
+  {
+    "line": 1626,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:53:0:453|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240"
+  },
+  {
+    "line": 1675,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:54:0:148|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1724,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:55:0:146|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1737,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:56:0:148|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1762,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:57:0:132|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1775,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:58:0:117|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1776,
+    "error": "Invalid log entry format",
+    "content": "20171223-23:59:0:135|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1777,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:215|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1778,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:216|Step_StandStepDataManager|30002312|theDayChanged 1514044800216"
+  },
+  {
+    "line": 1779,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:218|Step_StandStepDataManager|30002312|initEnviroument"
+  },
+  {
+    "line": 1780,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:218|Step_SPUtils|30002312|getStepCounterStatus"
+  },
+  {
+    "line": 1781,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:218|Step_SPUtils|30002312| getStepCounterStatus= true"
+  },
+  {
+    "line": 1782,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:218|Step_StandStepCounter|30002312|reStartStepCounter"
+  },
+  {
+    "line": 1783,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:223|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1784,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:226|Step_StandStepCounter|30002312|registersensorsuccess: true"
+  },
+  {
+    "line": 1785,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:227|Step_DataCache|30002312|clear()"
+  },
+  {
+    "line": 1786,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:228|Step_SPUtils|30002312| getTodayBasicStandardSteps= 1514018661124##0##3428"
+  },
+  {
+    "line": 1787,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:229|Step_StandStepDataManager|30002312|tryToRecordAsBasicStepData bWrite true"
+  },
+  {
+    "line": 1788,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:229|Step_SPUtils|30002312| getDiffTotalSteps= 1513958400215##0"
+  },
+  {
+    "line": 1789,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:229|Step_SPUtils|30002312|setBasicStandardSteps basicStandardStep=3786 restartSteps=0"
+  },
+  {
+    "line": 1790,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:232|Step_SPUtils|30002312|setDiffTotalSteps=0"
+  },
+  {
+    "line": 1791,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:233|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514044560000##7214##549659##8661##16256##33306763"
+  },
+  {
+    "line": 1792,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:233|Step_SPUtils|30002312| getTodayBasicStandardSteps= 1514044800223##3786##0"
+  },
+  {
+    "line": 1793,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:233|Step_SPUtils|30002312| getDiffTotalSteps= 1514044800231##0"
+  },
+  {
+    "line": 1794,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:234|Step_StandStepDataManager|30002312|tryToReloadTodayBasicSteps1514044800223|3786|0|0"
+  },
+  {
+    "line": 1795,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:234|Step_StandStepDataManager|30002312|reload : 3786 restar 0"
+  },
+  {
+    "line": 1796,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:234|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514044560000##7214##549659##8661##16256##33306763"
+  },
+  {
+    "line": 1797,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:234|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514044740000##0##549659##8661##16256##33444553"
+  },
+  {
+    "line": 1798,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:235|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1799,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:235|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1800,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:236|Step_StandReportReceiver|30002312|REPORT : 0 0 0 0"
+  },
+  {
+    "line": 1801,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:237|Step_HGNH|30002312|next day:steps0mLastReport7214"
+  },
+  {
+    "line": 1802,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:237|Step_SPUtils|30002312|setGoalNotifiShownRecord 1514044800237 false"
+  },
+  {
+    "line": 1803,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:240|Step_HGNH|30002312|closeNotification..."
+  },
+  {
+    "line": 1804,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:240|Step_NotificationUtil|30002312|deleteHealthNotification()"
+  },
+  {
+    "line": 1805,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:323|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1806,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:329|Step_LSC|30002312|onExtend:1514044801000 0 0 0"
+  },
+  {
+    "line": 1807,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:624|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514044740000##0##549659##8661##16256##33444553"
+  },
+  {
+    "line": 1808,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:624|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514044740000##0##549659##8661##16256##33444943"
+  },
+  {
+    "line": 1809,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:628|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1810,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:0:628|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1811,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:5:137|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1812,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:5:152|Step_LSC|30002312|onExtend:1514044805000 0 0 5"
+  },
+  {
+    "line": 1813,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:5:438|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514044740000##0##549659##8661##16256##33444943"
+  },
+  {
+    "line": 1814,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:5:438|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514044740000##0##549659##8661##16256##33449757"
+  },
+  {
+    "line": 1815,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:5:444|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1816,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:5:444|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1817,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:6:144|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1818,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:6:149|Step_LSC|30002312|onExtend:1514044806000 0 0 0"
+  },
+  {
+    "line": 1819,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:6:445|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514044740000##0##549659##8661##16256##33449757"
+  },
+  {
+    "line": 1820,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:6:445|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514044740000##0##549659##8661##16256##33450764"
+  },
+  {
+    "line": 1821,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:6:451|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1822,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:0:6:451|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1823,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:1:0:154|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1824,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:2:0:169|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1825,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:3:0:124|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1826,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:4:0:136|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1827,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:5:0:128|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1828,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:5:22:473|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1829,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:5:22:478|Step_LSC|30002312|onExtend:1514045123000 0 0 0"
+  },
+  {
+    "line": 1830,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:5:22:774|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514044740000##0##549659##8661##16256##33450764"
+  },
+  {
+    "line": 1831,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:5:22:774|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514045040000##0##549659##8661##16256##33767093"
+  },
+  {
+    "line": 1832,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:5:22:779|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1833,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:5:22:779|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1834,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:6:0:153|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1835,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:6:16:562|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1836,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:6:16:574|Step_LSC|30002312|onExtend:1514045177000 0 0 0"
+  },
+  {
+    "line": 1837,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:6:16:863|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514045040000##0##549659##8661##16256##33767093"
+  },
+  {
+    "line": 1838,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:6:16:864|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514045100000##0##549659##8661##16256##33821183"
+  },
+  {
+    "line": 1839,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:6:16:871|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1840,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:6:16:871|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1841,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:0:125|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1842,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:2:137|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1843,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:2:150|Step_LSC|30002312|onExtend:1514045222000 0 0 5"
+  },
+  {
+    "line": 1844,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:2:439|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514045100000##0##549659##8661##16256##33821183"
+  },
+  {
+    "line": 1845,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:2:440|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514045160000##0##549659##8661##16256##33866758"
+  },
+  {
+    "line": 1846,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:2:445|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1847,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:2:445|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1848,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:4:137|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1849,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:4:153|Step_LSC|30002312|onExtend:1514045224000 0 0 0"
+  },
+  {
+    "line": 1850,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:4:439|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514045160000##0##549659##8661##16256##33866758"
+  },
+  {
+    "line": 1851,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:4:439|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514045160000##0##549659##8661##16256##33868758"
+  },
+  {
+    "line": 1852,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:4:447|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1853,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:4:447|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1854,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:20:137|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1855,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:20:149|Step_LSC|30002312|onExtend:1514045240000 0 0 5"
+  },
+  {
+    "line": 1856,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:20:438|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514045160000##0##549659##8661##16256##33868758"
+  },
+  {
+    "line": 1857,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:20:439|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514045160000##0##549659##8661##16256##33884757"
+  },
+  {
+    "line": 1858,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:20:444|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1859,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:20:444|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1860,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:21:138|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1861,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:21:149|Step_LSC|30002312|onExtend:1514045241000 0 0 0"
+  },
+  {
+    "line": 1862,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:21:439|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514045160000##0##549659##8661##16256##33884757"
+  },
+  {
+    "line": 1863,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:21:440|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514045160000##0##549659##8661##16256##33885759"
+  },
+  {
+    "line": 1864,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:21:447|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1865,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:7:21:447|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1866,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:8:0:141|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1867,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:0:135|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1868,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:4:137|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1869,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:4:148|Step_LSC|30002312|onExtend:1514045344000 0 0 5"
+  },
+  {
+    "line": 1870,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:4:440|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514045160000##0##549659##8661##16256##33885759"
+  },
+  {
+    "line": 1871,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:4:441|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514045280000##0##549659##8661##16256##33988760"
+  },
+  {
+    "line": 1872,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:4:460|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1873,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:4:460|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1874,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:6:137|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1875,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:6:148|Step_LSC|30002312|onExtend:1514045346000 0 0 0"
+  },
+  {
+    "line": 1876,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:6:442|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514045280000##0##549659##8661##16256##33988760"
+  },
+  {
+    "line": 1877,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:6:442|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514045280000##0##549659##8661##16256##33990761"
+  },
+  {
+    "line": 1878,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:6:450|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1879,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:6:450|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1880,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:34:137|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1881,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:34:153|Step_LSC|30002312|onExtend:1514045374000 0 0 5"
+  },
+  {
+    "line": 1882,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:34:439|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514045280000##0##549659##8661##16256##33990761"
+  },
+  {
+    "line": 1883,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:34:440|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514045280000##0##549659##8661##16256##34018758"
+  },
+  {
+    "line": 1884,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:34:446|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1885,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:34:446|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1886,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:35:137|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1887,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:35:148|Step_LSC|30002312|onExtend:1514045375000 0 0 0"
+  },
+  {
+    "line": 1888,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:35:440|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514045280000##0##549659##8661##16256##34018758"
+  },
+  {
+    "line": 1889,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:35:441|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514045280000##0##549659##8661##16256##34019759"
+  },
+  {
+    "line": 1890,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:35:448|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1891,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:9:35:448|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1892,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:0:183|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1893,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:9:136|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1894,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:9:143|Step_LSC|30002312|onExtend:1514045409000 0 0 5"
+  },
+  {
+    "line": 1895,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:9:438|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514045280000##0##549659##8661##16256##34019759"
+  },
+  {
+    "line": 1896,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:9:438|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514045340000##0##549659##8661##16256##34053757"
+  },
+  {
+    "line": 1897,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:9:443|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1898,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:9:443|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1899,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:10:137|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1900,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:10:148|Step_LSC|30002312|onExtend:1514045410000 0 0 0"
+  },
+  {
+    "line": 1901,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:10:439|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514045340000##0##549659##8661##16256##34053757"
+  },
+  {
+    "line": 1902,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:10:440|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514045340000##0##549659##8661##16256##34054759"
+  },
+  {
+    "line": 1903,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:10:446|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1904,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:10:446|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1905,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:42:137|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1906,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:42:149|Step_LSC|30002312|onExtend:1514045442000 0 0 5"
+  },
+  {
+    "line": 1907,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:42:438|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514045340000##0##549659##8661##16256##34054759"
+  },
+  {
+    "line": 1908,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:42:438|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514045340000##0##549659##8661##16256##34086757"
+  },
+  {
+    "line": 1909,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:42:445|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1910,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:42:445|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1911,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:43:138|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1912,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:43:153|Step_LSC|30002312|onExtend:1514045443000 0 0 0"
+  },
+  {
+    "line": 1913,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:43:440|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514045340000##0##549659##8661##16256##34086757"
+  },
+  {
+    "line": 1914,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:43:441|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514045340000##0##549659##8661##16256##34087759"
+  },
+  {
+    "line": 1915,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:43:447|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1916,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:10:43:448|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1917,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:11:0:122|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1918,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:11:56:143|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1919,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:11:56:151|Step_LSC|30002312|onExtend:1514045516000 0 0 5"
+  },
+  {
+    "line": 1920,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:11:56:445|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514045340000##0##549659##8661##16256##34087759"
+  },
+  {
+    "line": 1921,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:11:56:446|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514045400000##0##549659##8661##16256##34160765"
+  },
+  {
+    "line": 1922,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:11:56:453|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1923,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:11:56:454|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1924,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:11:57:141|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1925,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:11:57:149|Step_LSC|30002312|onExtend:1514045517000 0 0 0"
+  },
+  {
+    "line": 1926,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:11:57:442|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514045400000##0##549659##8661##16256##34160765"
+  },
+  {
+    "line": 1927,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:11:57:443|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514045400000##0##549659##8661##16256##34161762"
+  },
+  {
+    "line": 1928,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:11:57:449|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1929,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:11:57:450|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1930,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:12:0:138|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1931,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:13:0:151|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1932,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:14:0:160|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1933,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:15:0:147|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1934,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:15:52:983|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1935,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:15:52:990|Step_LSC|30002312|onExtend:1514045753000 0 0 0"
+  },
+  {
+    "line": 1936,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:15:53:285|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514045400000##0##549659##8661##16256##34161762"
+  },
+  {
+    "line": 1937,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:15:53:286|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514045640000##0##549659##8661##16256##34397604"
+  },
+  {
+    "line": 1938,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:15:53:292|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1939,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:15:53:292|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1940,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:16:0:149|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1941,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:17:0:126|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1942,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:18:0:103|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1943,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:19:0:137|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1944,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:20:0:128|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1945,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:21:0:131|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1946,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:22:0:135|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1947,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:23:0:141|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1948,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:24:0:114|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1949,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:25:0:132|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1950,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:25:16:137|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1951,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:25:16:146|Step_LSC|30002312|onExtend:1514046316000 0 0 5"
+  },
+  {
+    "line": 1952,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:25:16:438|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514045640000##0##549659##8661##16256##34397604"
+  },
+  {
+    "line": 1953,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:25:16:439|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514046240000##0##549659##8661##16256##34960758"
+  },
+  {
+    "line": 1954,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:25:16:445|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1955,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:25:16:445|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1956,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:25:17:137|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1957,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:25:17:149|Step_LSC|30002312|onExtend:1514046317000 0 0 0"
+  },
+  {
+    "line": 1958,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:25:17:438|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514046240000##0##549659##8661##16256##34960758"
+  },
+  {
+    "line": 1959,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:25:17:438|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514046240000##0##549659##8661##16256##34961757"
+  },
+  {
+    "line": 1960,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:25:17:445|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1961,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:25:17:445|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1962,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:26:0:114|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1963,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:27:0:140|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1964,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:28:0:83|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1965,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:28:25:151|Step_LSC|30002312|onStandStepChanged 3786"
+  },
+  {
+    "line": 1966,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:28:25:159|Step_LSC|30002312|onExtend:1514046505000 0 0 5"
+  },
+  {
+    "line": 1967,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:28:25:453|Step_SPUtils|30002312| getTodayTotalDetailSteps = 1514046240000##0##549659##8661##16256##34961757"
+  },
+  {
+    "line": 1968,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:28:25:454|Step_SPUtils|30002312|setTodayTotalDetailSteps=1514046420000##0##549659##8661##16256##35149773"
+  },
+  {
+    "line": 1969,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:28:25:461|Step_ExtSDM|30002312|calculateCaloriesWithCache totalCalories=0"
+  },
+  {
+    "line": 1970,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:28:25:461|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=0"
+  },
+  {
+    "line": 1971,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:28:48:963|Step_StandReportReceiver|30002312|onReceive action: android.intent.action.SCREEN_OFF"
+  },
+  {
+    "line": 1972,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:31:52:120|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1973,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:32:28:791|HiH_HiSyncControl|30002312|startTimer start autoSync"
+  },
+  {
+    "line": 1974,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:32:28:797|HiH_HiSyncControl|30002312|startSync hiSyncOption = HiSyncOption{syncAction=1, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1"
+  },
+  {
+    "line": 1975,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:32:28:799|HiH_HiSyncControl|30002312|checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 20171224 oldDay is 20171223"
+  },
+  {
+    "line": 1976,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:32:28:800|HiH_HiSyncControl|30002312|stepSyncOrNot appSynTimes is 0"
+  },
+  {
+    "line": 1977,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:32:28:803|HiH_HiSyncControl|30002312|needAutoSync autoSyncSwitch is open"
+  },
+  {
+    "line": 1978,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:32:28:804|HiH_HiSyncControl|30002312|initDataPrivacy the dataPrivacy switch is open, start push health data!"
+  },
+  {
+    "line": 1979,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:32:28:804|HiH_|30002312|initDataPrivacy the dataPrivacy is true"
+  },
+  {
+    "line": 1980,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:32:28:805|HiH_HiSyncControl|30002312|initUserPrivacy the userPrivacy switch is open, start push user data!"
+  },
+  {
+    "line": 1981,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:32:28:806|HiH_|30002312|initUserPrivacy the userPrivacy is true"
+  },
+  {
+    "line": 1982,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:32:28:806|HiH_HiSyncControl|30002312|ifCanSync not! no cloud version"
+  },
+  {
+    "line": 1983,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:32:28:806|HiH_HiBroadcastUtil|30002312|sendSyncFailedBroadcast"
+  },
+  {
+    "line": 1984,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:32:41:114|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1985,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:37:23:74|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1986,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:38:23:301|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1987,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:39:14:288|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1988,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:42:46:681|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1989,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:45:47:485|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1990,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:48:29:111|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1991,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:49:29:380|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1992,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:51:1:747|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1993,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:52:20:752|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1994,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:53:59:235|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1995,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:55:32:22|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1996,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:58:53:985|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1997,
+    "error": "Invalid log entry format",
+    "content": "20171224-0:59:7:581|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1998,
+    "error": "Invalid log entry format",
+    "content": "20171224-1:0:0:794|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 1999,
+    "error": "Invalid log entry format",
+    "content": "20171224-1:1:0:935|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  },
+  {
+    "line": 2000,
+    "error": "Invalid log entry format",
+    "content": "20171224-1:2:35:789|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.TIME_TICK"
+  }
+]

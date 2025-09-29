@@ -1,0 +1,137 @@
+[
+  {
+    "line": 2,
+    "error": "Invalid log entry format",
+    "content": "2016-09-28 04:30:31, Info CSI 00000001@2016/9/27:20:30:31.455 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x7fed806eb5d @0x7fef9fb9b6d @0x7fef9f8358f @0xff83e97c @0xff83d799 @0xff83db2f)"
+  },
+  {
+    "line": 3,
+    "error": "Invalid log entry format",
+    "content": "2016-09-28 04:30:31, Info CSI 00000002@2016/9/27:20:30:31.458 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x7fed806eb5d @0x7fefa006ade @0x7fef9fd2984 @0x7fef9f83665 @0xff83e97c @0xff83d799)"
+  },
+  {
+    "line": 4,
+    "error": "Invalid log entry format",
+    "content": "2016-09-28 04:30:31, Info CSI 00000003@2016/9/27:20:30:31.458 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x7fed806eb5d @0x7fefa1c8728 @0x7fefa1c8856 @0xff83e474 @0xff83d7de @0xff83db2f)"
+  },
+  {
+    "line": 17,
+    "error": "Invalid log entry format",
+    "content": "2016-09-28 04:30:31, Info CSI 00000004 IAdvancedInstallerAwareStore_ResolvePendingTransactions (call 1) (flags = 00000004, progress = NULL, phase = 0, pdwDisposition = @0xb6fd90"
+  },
+  {
+    "line": 18,
+    "error": "Invalid log entry format",
+    "content": "2016-09-28 04:30:31, Info CSI 00000005 Creating NT transaction (seq 1), objectname [6]\"(null)\""
+  },
+  {
+    "line": 19,
+    "error": "Invalid log entry format",
+    "content": "2016-09-28 04:30:31, Info CSI 00000006 Created NT transaction (seq 1) result 0x00000000, handle @0x214"
+  },
+  {
+    "line": 20,
+    "error": "Invalid log entry format",
+    "content": "2016-09-28 04:30:31, Info CSI 00000007@2016/9/27:20:30:31.462 CSI perf trace:"
+  },
+  {
+    "line": 23,
+    "error": "Invalid log entry format",
+    "content": "2016-09-28 04:30:31, Info CSI 00000008 CSI Store 4991456 (0x00000000004c29e0) initialized"
+  },
+  {
+    "line": 939,
+    "error": "Invalid log entry format",
+    "content": "2016-09-28 04:40:53, Info CSI 00000009@2016/9/27:20:40:53.744 CSI Transaction @0x47e9e0 initialized for deployment engine {d16d444c-56d8-11d5-882d-0080c847b195} with flags 00000002 and client id [10]\"TI6.0_0:0/\""
+  },
+  {
+    "line": 941,
+    "error": "Invalid log entry format",
+    "content": "2016-09-28 04:40:54, Info CSI 0000000a Performing 1 operations; 1 are not lock/unlock and follow:"
+  },
+  {
+    "line": 942,
+    "error": "Invalid log entry format",
+    "content": "2016-09-28 04:40:54, Info CSI 0000000b Store coherency cookie matches last scavenge cookie, skipping scavenge."
+  },
+  {
+    "line": 943,
+    "error": "Invalid log entry format",
+    "content": "2016-09-28 04:40:54, Info CSI 0000000c ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=FALSE applyflags=7"
+  },
+  {
+    "line": 944,
+    "error": "Invalid log entry format",
+    "content": "2016-09-28 04:40:54, Info CSI 0000000d Creating NT transaction (seq 2), objectname [6]\"(null)\""
+  },
+  {
+    "line": 945,
+    "error": "Invalid log entry format",
+    "content": "2016-09-28 04:40:54, Info CSI 0000000e Created NT transaction (seq 2) result 0x00000000, handle @0xb8"
+  },
+  {
+    "line": 946,
+    "error": "Invalid log entry format",
+    "content": "2016-09-28 04:40:54, Info CSI 0000000f@2016/9/27:20:40:54.786 CSI perf trace:"
+  },
+  {
+    "line": 948,
+    "error": "Invalid log entry format",
+    "content": "2016-09-28 04:40:54, Info CSI 00000010@2016/9/27:20:40:54.787 CSI Transaction @0x47e9e0 destroyed"
+  },
+  {
+    "line": 956,
+    "error": "Invalid log entry format",
+    "content": "2016-09-29 00:00:46, Info CSI 00000001@2016/9/28:16:00:46.160 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x7fed875eb5d @0x7fee5c39b6d @0x7fee5c0358f @0xffeee97c @0xffeed799 @0xffeedb2f)"
+  },
+  {
+    "line": 957,
+    "error": "Invalid log entry format",
+    "content": "2016-09-29 00:00:46, Info CSI 00000002@2016/9/28:16:00:46.200 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x7fed875eb5d @0x7fee5c86ade @0x7fee5c52984 @0x7fee5c03665 @0xffeee97c @0xffeed799)"
+  },
+  {
+    "line": 958,
+    "error": "Invalid log entry format",
+    "content": "2016-09-29 00:00:46, Info CSI 00000003@2016/9/28:16:00:46.213 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x7fed875eb5d @0x7fef9d98728 @0x7fef9d98856 @0xffeee474 @0xffeed7de @0xffeedb2f)"
+  },
+  {
+    "line": 971,
+    "error": "Invalid log entry format",
+    "content": "2016-09-29 00:00:46, Info CSI 00000004 IAdvancedInstallerAwareStore_ResolvePendingTransactions (call 1) (flags = 00000004, progress = NULL, phase = 0, pdwDisposition = @0x116fa70"
+  },
+  {
+    "line": 972,
+    "error": "Invalid log entry format",
+    "content": "2016-09-29 00:00:46, Info CSI 00000005 Creating NT transaction (seq 1), objectname [6]\"(null)\""
+  },
+  {
+    "line": 973,
+    "error": "Invalid log entry format",
+    "content": "2016-09-29 00:00:46, Info CSI 00000006 Created NT transaction (seq 1) result 0x00000000, handle @0x218"
+  },
+  {
+    "line": 974,
+    "error": "Invalid log entry format",
+    "content": "2016-09-29 00:00:46, Info CSI 00000007@2016/9/28:16:00:46.260 CSI perf trace:"
+  },
+  {
+    "line": 987,
+    "error": "Invalid log entry format",
+    "content": "2016-09-29 00:00:46, Info CSI 00000008@2016/9/28:16:00:46.635 PopulateComponentFamiliesKey - Begin"
+  },
+  {
+    "line": 988,
+    "error": "Invalid log entry format",
+    "content": "2016-09-29 00:01:03, Info CSI 00000009@2016/9/28:16:01:03.072 PopulateComponentFamiliesKey - End"
+  },
+  {
+    "line": 989,
+    "error": "Invalid log entry format",
+    "content": "2016-09-29 00:01:03, Info CSI 0000000a CSI Store 17159600 (0x000000000105d5b0) initialized"
+  },
+  {
+    "line": 1104,
+    "error": "Invalid log entry format",
+    "content": "2016-09-29 02:03:46, Info CSI 0000000b CSI Store 3065408 (0x00000000002ec640) initialized"
+  }
+]
