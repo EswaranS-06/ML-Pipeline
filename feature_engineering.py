@@ -71,7 +71,7 @@ def load_cleaned_data(path_csv: str = "oplogs/cleaned/cleaned.csv",
     
     logger.info(f"Loaded {len(df)} rows with {len(df.columns)} columns")
     return df
-
+# setting to set the window
 def generate_feature_vectors(df: pd.DataFrame, window_size: str = "5min", 
                             group_by_actor: bool = False) -> pd.DataFrame:
     """Generate feature vectors from cleaned log data.

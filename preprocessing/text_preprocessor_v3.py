@@ -1,8 +1,14 @@
 import re
 from typing import Dict, List, Optional
 from datetime import datetime
-import chardet
 from pathlib import Path
+
+try:
+    import chardet
+except ImportError:
+    # Fallback for environments where chardet might not be available
+    chardet = None
+    print("Warning: chardet module not available. Character encoding detection will be limited.")
 
 class TextPreprocessor:
     def __init__(self):
@@ -61,9 +67,19 @@ class TextPreprocessor:
         # Read a sample of the file to detect encoding
         with open(file_path, 'rb') as f:
             raw_data = f.read(10000)  # Read first 10KB
-            result = chardet.detect(raw_data)
-            encoding = result['encoding'] or 'utf-8'
-            
+            if chardet:
+                result = chardet.detect(raw_data)
+                encoding = result['encoding'] or 'utf-8'
+            else:
+                # Fallback: try common encodings
+                encoding = 'utf-8'
+                # Try to detect by checking if it's valid UTF-8
+                try:
+                    raw_data.decode('utf-8')
+                except UnicodeDecodeError:
+                    # Try other common encodings
+                    encoding = 'latin-1'  # Fallback to latin-1
+                    
         # Read the full file with detected encoding
         try:
             with open(file_path, 'r', encoding=encoding) as f:

@@ -97,9 +97,9 @@ def step3_feature_engineering(df_clean: pd.DataFrame):
             logger.error("No cleaned data available for feature engineering")
             return pd.DataFrame()
 
-        # Prefer using functions directly so we keep data in memory
-        feature_df = fe_mod.generate_feature_vectors(df_clean, window_size="5min", group_by_actor=False)
-        if feature_df.empty:
+        # Prefer using functions directly so we keep data in memory  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+        feature_df = fe_mod.generate_feature_vectors(df_clean, window_size="5min", group_by_actor=True) #<--here window set to 5min and group by actor True
+        if feature_df.empty:                                         #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
             logger.error("No feature vectors generated")
             return pd.DataFrame()
 

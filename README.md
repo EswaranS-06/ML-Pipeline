@@ -245,3 +245,88 @@ If you'd like, I can also:
 - Add a `LICENSE` file for a chosen open-source license.
 
 Tell me which of the above you'd like me to do next.
+
+## 🛡️ SIEM Dashboard
+
+A comprehensive security dashboard built with Streamlit that provides real-time monitoring, threat detection, and log analysis capabilities.
+
+### Features
+
+- **Real-time Monitoring**: Live system metrics and anomaly detection
+- **Threat Management**: Alert system with severity levels and threat escalation
+- **Log Analysis**: Pattern matching and suspicious activity detection
+- **ML Integration**: Seamless integration with the existing ML pipeline
+- **Interactive Visualizations**: Plotly charts for anomaly scores, clustering, and correlations
+
+### Running the Dashboard
+
+1. Install required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. Run the dashboard:
+   ```bash
+   streamlit run app.py
+   ```
+
+3. Open your browser to the provided URL (typically http://localhost:8501)
+
+### Quick Start
+
+1. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. **Run the dashboard**:
+   ```bash
+   # Method 1: Using Python
+   streamlit run app.py
+   
+   # Method 2: Using batch file (Windows)
+   run_dashboard.bat
+   
+   # Method 3: Using PowerShell (Windows)
+   .\run_dashboard.ps1
+   ```
+
+3. **Access the dashboard**:
+   - Open your web browser
+   - Navigate to http://localhost:8501
+   - The SIEM dashboard will load automatically
+
+### First-Time Setup
+
+1. Ensure you have Python 3.8+ installed
+2. Create a virtual environment (recommended):
+   ```bash
+   python -m venv .venv
+   .venv\Scripts\activate  # Windows
+   source .venv/bin/activate  # Linux/Mac
+   ```
+
+3. Install all required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+### Dashboard Features Overview
+
+- **Real-time Monitoring**: Live system metrics and log monitoring
+- **Threat Detection**: Pattern matching and ML-based anomaly detection
+- **Alert Management**: Multi-level alert system with severity classification
+- **Incident Response**: Automated and manual threat response capabilities
+- **Data Export**: Export alerts, threats, and reports in multiple formats
+- **Visual Analytics**: Interactive charts and graphs for data analysis
+
+### File Structure for SIEM Dashboard
+
+```
+MLnextstep/
+├── app.py                      # Main SIEM dashboard application
+├── run_dashboard.bat           # Windows batch file for easy startup
+├── run_dashboard.ps1           # PowerShell script for easy startup
+├── requirements.txt            # Python dependencies (updated)
+└── README.md                   # Documentation (updated)
+```

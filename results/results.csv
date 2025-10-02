@@ -1,11 +1,4 @@
-log_file,line_number,log_message,predicted_label,anomaly_probability
-firewall,12,DEBUG: Cache cleared successfully,1.0,0.275
-firewall,2,INFO: 25 rules loaded,1.0,0.25
-system,6,DEBUG: DHCP request sent,1.0,0.45
-system,19,WARNING: Storage capacity at 85%,1.0,0.225
-firewall,3,WARNING: Rule #12 conflicts with rule #8,1.0,0.175
-firewall,10,ERROR: Memory allocation failed for packet inspection,1.0,0.2
-system,16,INFO: Backup process started,1.0,0.175
-system,17,DEBUG: Compressing files,1.0,0.375
-system,8,WARNING: High CPU usage detected,1.0,0.1
-2025-09-29T23:13:34.238268,4000,248,9,13
+timestamp,cleaned_rows,model_output_rows,n_clusters,n_anomalies
+2025-10-02T10:26:21.139513,4000,75,1,4
+2025-10-02T10:28:48.907754,4000,75,1,4
+2025-10-02T10:30:23.745722,4000,75,1,4
